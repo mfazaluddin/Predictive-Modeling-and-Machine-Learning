@@ -37,9 +37,3 @@ This repository contains a collection of projects focused on applying predictive
 - **Algorithms:** Regression (Linear, Logistic), Classification (SVM, Decision Tree, Random Forest).  
 - **Frameworks:** Jupyter Notebooks.  
 
-## **Contact**  
-For questions or collaboration, feel free to reach out to **fazaluddin8686@gmail.com**.  
-
----
-
-**Note:** The projects in this repository are for educational and demonstration purposes only.
